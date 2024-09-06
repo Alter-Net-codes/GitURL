@@ -5,6 +5,9 @@ GitURL is a python application for opening github repo's
 python 3.11+
 a webbrowser
 
+# remember
+you can only enter links within github.com like: github.com or github.com/Alter-net-codes
+
 # How To use
 ## go to releases
 ![image1](https://github.com/Alter-Net-codes/GitURL/blob/main/images/image1.png)
