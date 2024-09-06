@@ -11,3 +11,4 @@ while True:
         webbrowser.open(url)
     else:
         print("The URL has to be a GitHub link! Try something like https://github.com/alter-net-codes")
+        print("maybe perhaps you also forgot a https:// or http:// ?")
