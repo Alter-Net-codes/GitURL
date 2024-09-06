@@ -3,7 +3,7 @@ GitURL is a python application for opening github repo's
 
 # Requirements
 python 3.11+
-a webbrowser
+and a web-browser
 
 # remember
 you can only enter links within github.com like: github.com or github.com/Alter-net-codes
